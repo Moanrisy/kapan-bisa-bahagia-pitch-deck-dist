@@ -1,4 +1,0 @@
-import{b as i,o as s,w as l,g as o,i as p,v as d,x as n,C as t}from"./modules/vue-RaTfj2bZ.js";import{_ as m}from"./slidev/default-busFZ17R.js";import{u as c,f as u}from"./slidev/context-Cw9Lt4LF.js";import"./index-Dhu6b0Ao.js";import"./modules/shiki-DLt_Lluy.js";const x={__name:"3a-video-gameplay.md__slidev_6",setup(f){const{$clicksContext:r,$frontmatter:a}=c();return r.setup(),(_,e)=>(s(),i(m,d(n(t(u)(t(a),5))),{default:l(()=>[e[0]||(e[0]=o("h1",null,"Video Gameplay",-1)),p(` 
-<div style="background-color: white; padding: 10px; display: inline-block;">
-  <video src="./video.mp4" type="video/mp4" width="800" height="450" autoplay controls></video>
-</div> `),e[1]||(e[1]=o("iframe",{width:"560",height:"315",src:"https://www.youtube.com/embed/x78fgf6_fEU",title:"YouTube video player",frameborder:"0",allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",allowfullscreen:""},null,-1))]),_:1},16))}};export{x as default};
